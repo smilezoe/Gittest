@@ -1,2 +1,2 @@
-This is first day.I use git.
-I want work hard.
+Git is a distributed version control system.
+Git is free software distributed under the GPL.
